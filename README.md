@@ -1,5 +1,7 @@
 <h1 align="center">✨ Portfolio – Đặng Thị Kim Anh ✨</h1>
-![DATA SCIECE](data science.png)
+<p align="center">
+  <img src="datascience.png" width="600" alt="Data Science Banner"/>
+</p>
 
 <p align="center">
   🎓 Data Science Graduate | Aspiring Data Analyst | BI & BA Enthusiast<br>
