@@ -25,3 +25,6 @@ This project analyzes FIFA player data to uncover trends in player skills, marke
 <p align="center">
   <img src="images/dashboard.png" width="600" alt="Football Dashboard Preview"/>
 </p>
+---
+
+🔗 [View Project Repository](https://github.com/anhheo2710/FootballPlayer-Analysis)
