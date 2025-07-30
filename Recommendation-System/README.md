@@ -9,4 +9,4 @@ A graduation project applying deep learning models (MF, NCF, MLP, LightGCN, Ultr
 <p align="center">
   <img src="images/recommendation_system.png" width="750"><br>
 </p>
-🔗 [View Project Repository](https://github.com/Lizichu0100/Recommendation-System-for-E-commerce)
+🔗 [View Project Repository](https://github.com/anhheo2710/Recommendation-System-for-E-commerce)
