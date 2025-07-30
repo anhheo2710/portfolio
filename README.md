@@ -1,6 +1,6 @@
 <h1 align="center">✨ Portfolio – Đặng Thị Kim Anh ✨</h1>
 <p align="center">
-  <img src="data_science.png" width="600" alt="Data Science Banner"/>
+  <img src="images/data_science.png" width="600" alt="Data Science Banner"/>
 </p>
 
 <p align="center">
