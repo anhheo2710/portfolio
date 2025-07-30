@@ -1,5 +1,5 @@
 # 😄 Facial Expression Recognition with CNN
----
+
 <p align="center">
   <img src="images/recognition.png" width="750"><br>
 </p>
