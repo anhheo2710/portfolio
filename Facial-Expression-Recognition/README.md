@@ -1,4 +1,8 @@
 # 😄 Facial Expression Recognition with CNN
+---
+<p align="center">
+  <img src="images/recognition.png" width="750"><br>
+</p>
 
 ## Mô tả
 
@@ -20,21 +24,12 @@ Dự án áp dụng mô hình học sâu (Convolutional Neural Networks - CNN) �
 - Accuracy ~ 66% trên tập validation
 - Confusion matrix thể hiện mô hình phân biệt tốt các cảm xúc như *Happy* và *Neutral*
 
-## Hình ảnh minh họa
-- Biểu đồ loss/accuracy qua các epoch
-- Confusion matrix
-- Ví dụ ảnh nhận diện đúng/sai cảm xúc
-
 ## Công cụ sử dụng
 - Python (Keras, TensorFlow)
 - Google Colab
 
-## Repo liên quan
-- [Xem mã nguồn gốc tại đây](https://github.com/anhheo2710/Fundamental-ML)
-
 ---
 
-📁 Thư mục:
-- `notebooks/`: Notebook huấn luyện và đánh giá mô hình
-- `images/`: Hình ảnh minh họa kết quả mô hình
+🔗 [View Project Repository](https://github.com/anhheo2710/Recommendation-System-for-E-commerce)
+
 
