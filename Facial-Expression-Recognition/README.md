@@ -30,4 +30,4 @@ This project applies deep learning (Convolutional Neural Networks - CNN) to reco
 
 ---
 
-🔗 [View Project Repository](https://github.com/anhheo2710/Recommendation-System-for-E-commerce)
+🔗 [View Project Repository](https://github.com/anhheo2710/Fundamental-ML)
